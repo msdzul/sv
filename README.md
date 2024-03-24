@@ -2,6 +2,8 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/msdzul/sv)</br>
+
 Contact: [Telegram](https://t.me/MaheshChauhan)
 
 A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
